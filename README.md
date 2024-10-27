@@ -13,6 +13,6 @@ How-to:
 5. Press the green run button to start installing. This may take awhile, your system will not reboot after it's complete.
 6. Wait for installation to finish and follow on-screen instructions.
 
-We recommend installing any Windows updates, as it might've reverted some updates installed on your previous install.\
+We recommend installing any Windows updates, as it might've reverted some updates installed on your previous install.
 
 You can also run the "Edition Switcher.ps1" script if you'd like to change to IoT Enterprise LTSC. (Only on build 19044.2033 or later)
