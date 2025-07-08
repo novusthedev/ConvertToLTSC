@@ -13,7 +13,7 @@ $IoTKey = "KBN8V-HFGQ4-MGXVD-347P6-PDQGT"
 
 # Script
 
-clear
+Clear-Host
 
 Write-Host "Current build & revision: $BuildRev"
 Write-Host "Current Edition: $Edition"
